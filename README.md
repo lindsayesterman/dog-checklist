@@ -1,6 +1,6 @@
 # dogchecklist
 
-Live webiste - dogchecklist.org
+Live webiste - http://www.dogchecklist.org/
 
 Checklist for getting a new dog! Everything you need to do to welcome a new pup into the family. 
 
